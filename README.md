@@ -1,4 +1,4 @@
-# Assignment 12 || Programming Hero
+# Assignment 12
 
 Live Link: https://assign12fitness.web.app
 
