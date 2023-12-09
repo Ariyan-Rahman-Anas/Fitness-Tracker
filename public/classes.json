@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/8gk4CPy/1.png",
+    "title": "Cardio Blast",
+    "description": "Ignite your cardiovascular health and incinerate calories with our high-intensity Cardio Blast. Join us for a heart-pumping experience that improves endurance, stamina, and overall cardiovascular fitness. Mondays, Wednesdays, and Fridays from 7:00 AM to 8:00 AM. Fuel up with a Protein shake and a Banana.",
+    "class_duration": 1.0,
+    "topic_description": "Improve endurance, stamina, and overall cardiovascular fitness.",
+    "class_timing": "Mon, Wed, Fri 7:00 AM - 8:00 AM",
+    "need_foods": ["Protein shake", "Banana"]
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/2FJbK1Q/2.png",
+    "title": "Strength Training",
+    "description": "Build and sculpt your muscles with Strength Training. This class focuses on resistance exercises to enhance muscle strength, definition, and functional fitness. Join us on Tuesdays and Thursdays from 6:30 PM to 7:15 PM. Refuel with Chicken breast and Quinoa.",
+    "class_duration": 0.75,
+    "topic_description": "Enhance muscle strength, definition, and functional fitness.",
+    "class_timing": "Tue, Thu 6:30 PM - 7:15 PM",
+    "need_foods": ["Chicken breast", "Quinoa"]
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/yXZTjK8/3.png",
+    "title": "Yoga Flow",
+    "description": "Find serenity and vitality in our Yoga Flow class. Immerse yourself in a blend of breath and movement to promote flexibility, balance, and stress relief. Saturdays and Sundays from 9:00 AM to 10:15 AM. Replenish with a Green smoothie and Mixed nuts.",
+    "class_duration": 1.25,
+    "topic_description": "Promote flexibility, balance, and stress relief through yoga poses.",
+    "class_timing": "Sat, Sun 9:00 AM - 10:15 AM",
+    "need_foods": ["Green smoothie", "Mixed nuts"]
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/Prd2DpF/4.png",
+    "title": "HIIT Express",
+    "description": "Maximize calorie burn in minimal time with HIIT Express. Quick and intense high-intensity interval training on Mondays, Wednesdays, and Fridays from 5:30 PM to 6:00 PM. Energize with an Energy bar and an Orange.",
+    "class_duration": 0.5,
+    "topic_description": "Boost metabolism, burn fat, and improve cardiovascular health.",
+    "class_timing": "Mon, Wed, Fri 5:30 PM - 6:00 PM",
+    "need_foods": ["Energy bar", "Orange"]
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/BGyPxMM/5.png",
+    "title": "Pilates Core",
+    "description": "Strengthen your core and enhance overall body awareness with Pilates Core. Tuesdays and Thursdays from 9:30 AM to 10:20 AM. Nourish with Greek yogurt and Berries.",
+    "class_duration": 0.83,
+    "topic_description": "Focus on core strength, stability, and overall body awareness.",
+    "class_timing": "Tue, Thu 9:30 AM - 10:20 AM",
+    "need_foods": ["Greek yogurt", "Berries"]
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/jk7J5Sy/6.png",
+    "title": "Zumba Party",
+    "description": "Dance, move, and have a blast in our Zumba Party! Saturdays from 11:00 AM to 12:00 PM. Burn calories, improve cardiovascular health, and enjoy the rhythm. Stay hydrated with Water and indulge in Fruit slices.",
+    "class_duration": 0.92,
+    "topic_description": "Have fun while burning calories and improving cardiovascular health.",
+    "class_timing": "Sat 11:00 AM - 12:00 PM",
+    "need_foods": ["Hydration (Water)", "Fruit slices"]
+  },
+  {
+    "id": 7,
+    "img": "https://i.ibb.co/TkHrJsf/7.png",
+    "title": "Mindful Meditation",
+    "description": "Unwind and find inner peace in our Mindful Meditation class. Sundays from 5:30 PM to 6:00 PM. Reduce stress, improve focus, and cultivate serenity. Sip on Herbal tea and savor Dark chocolate.",
+    "class_duration": 0.5,
+    "topic_description": "Reduce stress, improve focus, and cultivate a sense of inner peace.",
+    "class_timing": "Sun 5:30 PM - 6:00 PM",
+    "need_foods": ["Herbal tea", "Dark chocolate"]
+  },
+  {
+    "id": 8,
+    "img": "https://i.ibb.co/s2skvs1/8.png",
+    "title": "Bootcamp Challenge",
+    "description": "Experience the ultimate challenge in our Bootcamp Challenge. Mondays, Wednesdays, and Fridays from 6:15 AM to 7:15 AM. A mix of strength, cardio, and agility exercises to burn calories and build strength. Power up with Egg whites and Whole grain toast.",
+    "class_duration": 1.0,
+    "topic_description": "Burn calories, build strength, and improve overall fitness levels.",
+    "class_timing": "Mon, Wed, Fri 6:15 AM - 7:15 AM",
+    "need_foods": ["Egg whites", "Whole grain toast"]
+  },
+  {
+    "id": 9,
+    "img": "https://i.ibb.co/b50k5Qv/9.png",
+    "title": "Cycling Fusion",
+    "description": "Revitalize your cardiovascular health with Cycling Fusion. Tuesdays and Thursdays from 7:30 AM to 8:15 AM. Combine cycling with strength exercises. Refresh with a Smoothie with protein powder and a Banana.",
+    "class_duration": 0.75,
+    "topic_description": "Improve cardiovascular health and leg strength with an energizing ride.",
+    "class_timing": "Tue, Thu 7:30 AM - 8:15 AM",
+    "need_foods": ["Smoothie with protein powder", "Banana"]
+  },
+  {
+    "id": 10,
+    "img": "https://i.ibb.co/CbS1P1Y/10.png",
+    "title": "Functional Fitness",
+    "description": "Enhance daily activities and prevent injuries with Functional Fitness. Saturdays and Sundays from 10:30 AM to 11:20 AM. Focus on flexibility, balance, and strength. Refuel with Turkey slices and Trail mix.",
+    "class_duration": 0.83,
+    "topic_description": "Improve flexibility, balance, and strength for everyday tasks.",
+    "class_timing": "Sat, Sun 10:30 AM - 11:20 AM",
+    "need_foods": ["Turkey slices", "Trail mix"]
+  },
+  {
+    "id": 11,
+    "img": "https://i.ibb.co/MVhJrnZ/11.png",
+    "title": "Senior Wellness",
+    "description": "Promote mobility, flexibility, and overall well-being with Senior Wellness. Tuesdays and Thursdays from 11:00 AM to 11:40 AM. Gentle exercises for joint health. Enjoy Oatmeal and Low-fat milk.",
+    "class_duration": 0.67,
+    "topic_description": "Maintain joint health and stay active in a supportive environment.",
+    "class_timing": "Tue, Thu 11:00 AM - 11:40 AM",
+    "need_foods": ["Oatmeal", "Low-fat milk"]
+  },
+  {
+    "id": 12,
+    "img": "https://i.ibb.co/qRPK1Mx/12.png",
+    "title": "Kickboxing Cardio",
+    "description": "Unleash your power in Kickboxing Cardio. Wednesdays and Fridays from 6:30 PM to 7:25 PM. A dynamic cardio workout to burn calories, improve coordination, and boost cardiovascular fitness. Reenergize with a Protein smoothie and an Apple.",
+    "class_duration": 0.92,
+    "topic_description": "Burn calories, improve coordination, and boost cardiovascular fitness.",
+    "class_timing": "Wed, Fri 6:30 PM - 7:25 PM",
+    "need_foods": ["Protein smoothie", "Apple"]
+  },
+  {
+    "id": 13,
+    "img": "https://i.ibb.co/pxdzN56/13.png",
+    "title": "Barre Sculpt",
+    "description": "Sculpt and tone your body with Barre Sculpt. Mondays and Thursdays from 8:00 AM to 8:50 AM. A fusion of ballet-inspired and strength exercises for muscle endurance, flexibility, and overall body toning. Recharge with a Salad with lean protein and Chia pudding.",
+    "class_duration": 0.83,
+    "topic_description": "Focus on muscle endurance, flexibility, and overall body toning.",
+    "class_timing": "Mon, Thu 8:00 AM - 8:50 AM",
+    "need_foods": ["Salad with lean protein", "Chia pudding"]
+  },
+  {
+    "id": 14,
+    "img": "https://i.ibb.co/j3pScWb/14.png",
+    "title": "TRX Suspension",
+    "description": "Engage your core and enhance functional strength with TRX Suspension. Saturdays and Sundays from 4:00 PM to 4:45 PM. Utilize suspension training for a full-body workout. Replenish with Veggies with hummus and Trail mix.",
+    "class_duration": 0.75,
+    "topic_description": "Engage core muscles and enhance overall functional strength.",
+    "class_timing": "Sat, Sun 4:00 PM - 4:45 PM",
+    "need_foods": ["Veggies with hummus", "Trail mix"]
+  }
+]

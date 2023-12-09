@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Silver Plan",
+    "description": "Basic membership with essential features.",
+    "features": [
+      "Access to basic gym facilities",
+      "Limited group classes",
+      "No personal trainer sessions",
+      "Locker room access",
+      "Monthly fitness assessment"
+    ],
+    "monthlyFee": 50
+  },
+  {
+    "name": "Gold Plan",
+    "description": "Enhanced membership with additional perks.",
+    "features": [
+      "Access to all gym facilities",
+      "Unlimited group classes",
+      "One personal trainer session per month",
+      "Locker room access",
+      "Monthly fitness assessment",
+      "Discounts on gym merchandise"
+    ],
+    "monthlyFee": 75
+  },
+  {
+    "name": "Diamond Plan",
+    "description": "Premium membership with exclusive benefits.",
+    "features": [
+      "Access to all gym facilities, including premium amenities",
+      "Unlimited group and specialty classes",
+      "Two personal trainer sessions per month",
+      "Locker room access with complimentary towel service",
+      "Monthly fitness assessment with personalized workout plan",
+      "Discounts on additional services (e.g., spa, nutrition counseling)",
+      "VIP access to special events"
+    ],
+    "monthlyFee": 100
+  }
+]

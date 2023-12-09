@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/TvHWc4w/1.jpg",
+    "name": "John Doe",
+    "designation": "Senior Fitness Instructor"
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/7RW31s6/2.jpg",
+    "name": "Emily Smith",
+    "designation": "Certified Personal Trainer"
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/HpFBk3W/3.jpg",
+    "name": "Alex Rodriguez",
+    "designation": "Strength and Conditioning Specialist"
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/4sVvycM/4.jpg",
+    "name": "Jessica Brown",
+    "designation": "Weightlifting Coach"
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/0XxGKcm/5.jpg",
+    "name": "Michael Johnson",
+    "designation": "Cardiovascular Fitness Expert"
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/58hxTMf/6.jpg",
+    "name": "Samantha White",
+    "designation": "Flexibility and Yoga Instructor"
+  }
+]

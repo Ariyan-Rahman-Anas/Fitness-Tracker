@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Jennifer Martinez",
+    "img": "https://i.ibb.co/TvHWc4w/1.jpg",
+    "years_of_experience": 8,
+    "time_slot": 3,
+    "slots_are": ["09:00 AM - 10:00 AM", "10:00 AM - 11:00 AM", "11:00 AM - 12:00 PM"],
+    "specialist_on": "Weight Training Specialist"
+  },
+  {
+    "id": 2,
+    "name": "Daniel Harris",
+    "img": "https://i.ibb.co/7RW31s6/2.jpg",
+    "years_of_experience": 10,
+    "time_slot": 4,
+    "slots_are": ["01:00 PM - 02:00 PM", "02:00 PM - 03:00 PM", "03:00 PM - 04:00 PM", "04:00 PM - 05:00 PM"],
+    "specialist_on": "Cardiovascular Conditioning Specialist"
+  },
+  {
+    "id": 3,
+    "name": "Lindsay Carter",
+    "img": "https://i.ibb.co/HpFBk3W/3.jpg",
+    "years_of_experience": 6,
+    "time_slot": 2,
+    "slots_are": ["08:00 AM - 09:00 AM", "09:00 AM - 10:00 AM"],
+    "specialist_on": "Yoga and Flexibility Specialist"
+  },
+  {
+    "id": 4,
+    "name": "Alex Johnson",
+    "img": "https://i.ibb.co/4sVvycM/4.jpg",
+    "years_of_experience": 12,
+    "time_slot": 2,
+    "slots_are": ["02:00 PM - 03:00 PM","03:00 PM - 04:00 PM"],
+    "specialist_on": "Strength and Conditioning Specialist"
+  },
+  {
+    "id": 5,
+    "name": "Samantha White",
+    "img": "https://i.ibb.co/0XxGKcm/5.jpg",
+    "years_of_experience": 7,
+    "time_slot": 3,
+    "slots_are": ["03:00 PM - 04:00 PM", "04:00 PM - 05:00 PM", "05:00 PM - 06:00 PM"],
+    "specialist_on": "Functional Training Specialist"
+  },
+  {
+    "id": 6,
+    "name": "Ryan Anderson",
+    "img": "https://i.ibb.co/58hxTMf/6.jpg",
+    "years_of_experience": 9,
+    "time_slot": 2,
+    "slots_are": ["09:00 PM - 10:00 PM", "10:00 PM - 11:00 PM"],
+    "specialist_on": "HIT Workouts Specialist"
+  }
+]

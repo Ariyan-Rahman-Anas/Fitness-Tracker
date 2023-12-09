@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "img": "./11.svg",
+    "title": "Basics Mastering ",
+    "description": "Build a strong foundation in your fitness the your roadmap to achieving strength endurance, and a sculpted physique."
+  },
+  {
+    "id": 2,
+    "img": "./12.svg",
+    "title": "Nutrition for Growth",
+    "description": "Unlock the secrets tailored for muscle recovery. Elevate your gains with the right fuel for your bodybuilding goals."
+  },
+  {
+    "id": 3,
+    "img": "./13.svg",
+    "title": "Sculpting Physique",
+    "description": "Embark on transfer journey to sculpting perfect physique. Tailor hypertrophy sculpted body always aspired to build."
+  },
+  {
+    "id": 4,
+    "img": "./14.svg",
+    "title": "Functional Bodybuilding",
+    "description": "Enhances your bodybuilding journey by incorporating functionally fitness exercises. Explore both powerful and agile."
+  },
+  {
+    "id": 5,
+    "img": "./15.svg",
+    "title": "Mastery in Bodybuilding",
+    "description": "Unleash the power of a positive bodybuilding endeavor. Dive achieves long-term success in your bodybuilding journey."
+  },
+  {
+    "id": 6,
+    "img": "./16.svg",
+    "title": "Recover Regenerate",
+    "description": "Discover the crucial role of recovery and regeneration results. Explore as sustained progress and long-term success."
+  }
+]

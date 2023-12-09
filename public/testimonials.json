@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Johnson",
+    "comment": "I joined this gym to kickstart my fitness journey, and it exceeded my expectations. The trainers are knowledgeable, the atmosphere is motivating, and the facilities are top-notch. I've seen incredible results, and I highly recommend it!",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Emily Rodriguez",
+    "comment": "The variety of classes offered here is fantastic! From high-intensity workouts to relaxing yoga sessions, there's something for everyone. The instructors are friendly and skilled, creating a positive and inclusive environment. I've never been more committed to my fitness goals.",
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "name": "Chris Thompson",
+    "comment": "I've been a member for over a year, and I'm consistently impressed with the gym's commitment to cleanliness and hygiene. The equipment is well-maintained, and the staff ensures a safe workout environment. It's a gym you can trust for your fitness journey.",
+    "rating": 4.5
+  },
+  {
+    "id": 4,
+    "name": "Jessica White",
+    "comment": "Joining this gym was a game-changer for me. The personalized training plans helped me achieve my fitness goals faster than I thought possible. The trainers are not only experts but also supportive mentors. I'm grateful for the positive impact on my health.",
+    "rating": 5
+  },
+  {
+    "id": 5,
+    "name": "Michael Turner",
+    "comment": "The gym's community is amazing! It feels like a family, and the camaraderie among members is motivating. The group classes are energetic, and I've made friends who share my fitness journey. It's not just a gym; it's a supportive community.",
+    "rating": 4.5
+  },
+  {
+    "id": 6,
+    "name": "Sarah Davis",
+    "comment": "I appreciate the flexibility in membership options. Whether you're a beginner or an experienced gym-goer, there's a plan for you. The staff is friendly, and the facilities are well-equipped. It's a gym that caters to all levels of fitness enthusiasts.",
+    "rating": 4
+  }
+]

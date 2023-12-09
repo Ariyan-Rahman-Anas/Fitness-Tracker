@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Cardio Blast",
+    "classCategory": "Cardio",
+    "description": "A high-intensity cardiovascular workout to boost your endurance and burn calories. Get ready to sweat and elevate your heart rate.",
+    "img": "https://i.ibb.co/vXNS96R/1.png"
+  },
+  {
+    "id": 2,
+    "title": "Strength Training",
+    "classCategory": "Strength",
+    "description": "Build and tone muscle with our strength training class. Suitable for all fitness levels, this class focuses on improving overall strength and power.",
+    "img": "https://i.ibb.co/KzwtRHQ/2.png"
+  },
+  {
+    "id": 3,
+    "title": "Yoga Fusion",
+    "classCategory": "Mind-Body",
+    "description": "Experience a blend of traditional yoga poses with elements of strength and flexibility training. Find balance, focus, and relaxation.",
+    "img": "https://i.ibb.co/DzZD86M/3.png"
+  },
+  {
+    "id": 4,
+    "title": "HIIT Revolution",
+    "classCategory": "High-Intensity Interval Training",
+    "description": "Join the HIIT Revolution! Burn fat, improve cardiovascular health, and boost metabolism with this fast-paced interval training class.",
+    "img": "https://i.ibb.co/fGsjjxT/4.png"
+  },
+  {
+    "id": 5,
+    "title": "Dance Fit",
+    "classCategory": "Dance",
+    "description": "Get your groove on with Dance Fit! A fun and energetic dance workout that combines various dance styles to keep you moving and smiling.",
+    "img": "https://i.ibb.co/gWm2Frw/5.png"
+  },
+  {
+    "id": 6,
+    "title": "Mindful Meditation",
+    "classCategory": "Mind-Body",
+    "description": "Unwind and rejuvenate with Mindful Meditation. Learn mindfulness techniques to reduce stress, improve focus, and enhance overall well-being.",
+    "img": "https://i.ibb.co/XyRD7Lz/6.png"
+  }
+]
